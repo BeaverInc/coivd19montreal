@@ -1,0 +1,1 @@
+var record_time =" Wednesday, 17 June 2020, 15:00."
