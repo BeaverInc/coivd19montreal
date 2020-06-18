@@ -31,7 +31,6 @@ $('select').on('change', function() {
     name_in_js = name_in_js.replace(/\s/g, "_").replace(/'/g, "_").replace(/-/g, "_").replace(/–/g, "_");
     var report_data = window[name_in_js];
 
-
     $("#area_c").empty();
     $("#area_d").empty();
     $("#area_n").empty();
