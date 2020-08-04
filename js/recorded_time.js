@@ -1,1 +1,1 @@
-var record_time =" Tuesday, 04 August 2020, 15:01."
+var record_time =" Tuesday, 04 August 2020, 18:00."
